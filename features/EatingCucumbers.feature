@@ -1,4 +1,4 @@
-Feature: Eating Cucumbers
+Feature: Cykeltur
   
   solen skinner bla bla
   
@@ -7,4 +7,3 @@ Feature: Eating Cucumbers
     When vi kører op ad Langegade
     And solen skinner
     Then har vi det herligt
-    
