@@ -1,8 +1,10 @@
 Feature: Eating Cucumbers
   
-  Scenario: Buy Cucumbers
-    Given web-shop page is opened
-    When put cucumbers in basket
-    And the purchase is completed
-    Then cucumbers are sent to the customer
+  solen skinner bla bla
+  
+  Scenarios: vi cykler
+    Given vi har en cykel
+    When vi kører op ad Langegade
+    And solen skinner
+    Then har vi det herligt
     
